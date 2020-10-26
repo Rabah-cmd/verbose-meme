@@ -1,22 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
-
-
-*  {
-    box-sizing: border-box;
-    background-color: aqua; 
-    padding: 10px;
+* {
+    background-color: turquoise;
 }
 
-h1, h2 p{
-    font-size: 50px;
-    color: tomato;
-    font-family: 'Titillium Web', sans-serif;
-}
-
-.redBackground {
-    background-color: orange;
-    
-}
-
-
-    
